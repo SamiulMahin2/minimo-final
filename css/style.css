@@ -71,7 +71,7 @@ body{
 .menu ul li a:hover{
 	font-weight: 500;
 	color: #000000;
-	border-bottom: 1px solid
+	border-bottom: 1px solid;
 }
 /*header end*/
 
